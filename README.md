@@ -1,2 +1,2 @@
-# HTTS-Project
+# HispanicBusinesses
 Project 1
