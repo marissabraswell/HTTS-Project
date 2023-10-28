@@ -1,2 +1,2 @@
-# HispanicBusinesses
+# HTTPS PROJECT
 Project 1
