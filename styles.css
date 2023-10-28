@@ -49,6 +49,8 @@ h4 {
 
 h3 {
     text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 figcaption,
@@ -68,7 +70,7 @@ hr {
 
 .container,
 .icon-container {
-    width: 100%;
+    max-width: 750px;
     margin: 0 auto;
     padding: 20px;
 }
